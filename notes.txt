@@ -1,0 +1,18 @@
+react crud - done
+useContext 
+useRef
+useMemo
+useCallback
+useReducer
+roleBased
+arrayproblems - and all arrayMethods
+
+node server - done 
+crud with express - done
+jwt verify - done
+roleBased - done
+
+
+
+
+
